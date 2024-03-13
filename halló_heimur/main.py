@@ -1,3 +1,4 @@
 #Halló heimur
 #flask forrit
-print("Góðan daginn")
+print("Góða kvöldið")
+print("Góðan daginn") #Review
